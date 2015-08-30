@@ -16,6 +16,9 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [Tornado](https://github.com/tornadoweb/tornado/blob/master/tornado/ioloop.py)
   - [Linux source code](https://github.com/torvalds/linux/tree/master/net/ipv4)
 
+- DNS
+  - [DNS](https://www.ietf.org/rfc/rfc1035.txt)
+
 - Protocols and APIs
   - [SOCKS Protocol Version 5](https://www.ietf.org/rfc/rfc1928.txt)
   - [tuntap](https://www.kernel.org/doc/Documentation/networking/tuntap.txt)

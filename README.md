@@ -15,6 +15,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [The C10K problem](http://www.kegel.com/c10k.html)
   - [Tornado](https://github.com/tornadoweb/tornado/blob/master/tornado/ioloop.py)
   - [Linux source code](https://github.com/torvalds/linux/tree/master/net/ipv4)
+  - [TCP Hybla](http://www.mathcs.emory.edu/~cheung/Courses/558/Syllabus/Papers/TCP-Hybla.pdf)
 
 - DNS
   - [DNS](https://www.ietf.org/rfc/rfc1035.txt)

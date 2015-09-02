@@ -27,6 +27,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [NAT](https://www.ietf.org/rfc/rfc1631.txt)
   - [Android VpnService](http://developer.android.com/reference/android/net/VpnService.html)
   - [Network Extension](https://developer.apple.com/videos/wwdc/2015/?id=717)
+  - [mDNS](https://tools.ietf.org/html/rfc6762)
 
 - Cryptography
   - [Cryptography](http://online.stanford.edu/course/cryptography)

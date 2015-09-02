@@ -7,6 +7,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
   - [HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
   - [HTTP/2 draft](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
+  - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 
 - TCP/IP
   - [TCP/IP Illustrated](https://www.google.com/search?q=TCP%2FIP+Illustrated&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl)

@@ -26,7 +26,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [tuntap](https://www.kernel.org/doc/Documentation/networking/tuntap.txt)
   - [NAT](https://www.ietf.org/rfc/rfc1631.txt)
   - [Android VpnService](http://developer.android.com/reference/android/net/VpnService.html)
-  - [Network Extension](https://developer.apple.com/videos/wwdc/2015/?id=717)
+  - [Network Extension](https://developer.apple.com/library/prerelease/ios/documentation/NetworkExtension/Reference/Network_Extension_Framework_Reference/index.html#//apple_ref/doc/uid/TP40016234)
 
 - Cryptography
   - [Cryptography](http://online.stanford.edu/course/cryptography)

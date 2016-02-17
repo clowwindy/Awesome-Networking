@@ -15,7 +15,8 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
   - [The C10K problem](http://www.kegel.com/c10k.html)
   - [Tornado](https://github.com/tornadoweb/tornado/blob/master/tornado/ioloop.py)
-  - [Linux source code](https://github.com/torvalds/linux/tree/master/net/ipv4)
+  - [Linux source](https://github.com/torvalds/linux/tree/master/net/ipv4)
+  - [XNU source](http://www.opensource.apple.com/source/xnu/xnu-3248.20.55/bsd/netinet/)
   - [TCP Hybla](http://www.mathcs.emory.edu/~cheung/Courses/558/Syllabus/Papers/TCP-Hybla.pdf)
 
 - DNS

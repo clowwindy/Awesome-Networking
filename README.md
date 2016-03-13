@@ -14,6 +14,8 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [tcpdump](http://www.tcpdump.org/tcpdump_man.html)
   - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
   - [The C10K problem](http://www.kegel.com/c10k.html)
+  - [The C10M problem](http://c10m.robertgraham.com/p/manifesto.html)
+  - [The Secret To 10 Million Concurrent Connections](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html)
   - [Tornado](https://github.com/tornadoweb/tornado/blob/master/tornado/ioloop.py)
   - [Linux source](https://github.com/torvalds/linux/tree/master/net/ipv4)
   - [XNU source](http://www.opensource.apple.com/source/xnu/xnu-3248.20.55/bsd/netinet/)

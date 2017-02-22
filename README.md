@@ -20,6 +20,7 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [Linux source](https://github.com/torvalds/linux/tree/master/net/ipv4)
   - [XNU source](http://www.opensource.apple.com/source/xnu/xnu-3248.20.55/bsd/netinet/)
   - [TCP Hybla](http://www.mathcs.emory.edu/~cheung/Courses/558/Syllabus/Papers/TCP-Hybla.pdf)
+  - [NAT Tutorial](https://www.karlrupp.net/en/computer/nat_tutorial)
 
 - DNS
   - [DNS](https://www.ietf.org/rfc/rfc1035.txt)

@@ -7,12 +7,12 @@ A curated list of awesome networking libraries, resources and shiny things.
   - [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
   - [HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
   - [HTTP/2 draft](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
-  - [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
+  - [High Performance Browser Networking](https://ssearch.oreilly.com/?q=High+Performance+Browser+Networking)
 
 - TCP/IP
   - [TCP/IP Illustrated](https://www.google.com/search?q=TCP%2FIP+Illustrated&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl)
   - [tcpdump](http://www.tcpdump.org/tcpdump_man.html)
-  - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+  - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/multi/index.html)
   - [The C10K problem](http://www.kegel.com/c10k.html)
   - [Tornado](https://github.com/tornadoweb/tornado/blob/master/tornado/ioloop.py)
   - [Linux source](https://github.com/torvalds/linux/tree/master/net/ipv4)

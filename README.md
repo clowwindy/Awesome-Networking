@@ -21,6 +21,7 @@ A curated list of awesome networking libraries, resources and shiny things.
 
 - DNS
   - [DNS](https://www.ietf.org/rfc/rfc1035.txt)
+  - [Online DNS lookup](https://www.nslookup.io/)
 
 - Protocols and APIs
   - [SOCKS Protocol Version 5](https://www.ietf.org/rfc/rfc1928.txt)
